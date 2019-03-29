@@ -25,7 +25,10 @@ extra_css:
     - css/base.css
     - css/bootstarp-custom.min.css
     - css/style.css
-
-copyright: Copyright &copy; 2014
+    
+markdown_extensions:
+    - admonition
+    
+copyright: Copyright &copy; 2017 Dreamtowards
 
 docs_dir: 'docs'
