@@ -25,6 +25,7 @@ extra_css:
     - css/base.css
     - css/bootstarp-custom.min.css
     - css/style.css
+    - css/highlight.css
     
 markdown_extensions:
     - admonition
