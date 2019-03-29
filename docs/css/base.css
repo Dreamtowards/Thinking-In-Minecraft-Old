@@ -236,5 +236,5 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
 
 /* little arrow of parent menu */
 .dropdown-submenu:hover>a:after {
-    border-left-color: #404040;
+    border-left-color: #f3f3f3;
 }
