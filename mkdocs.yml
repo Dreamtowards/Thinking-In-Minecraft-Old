@@ -9,7 +9,9 @@ edit_uri: ""
 theme: mkdocs
 
 pages:
-    - Home: index.md
+    - 主頁: index.md
+    - 目錄:
+        - abc: a.md
     
 extra_css:
     - css/extra.css
