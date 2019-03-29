@@ -105,33 +105,6 @@ footer {
 
 /* Style each kind of admonition. */
 
-.admonition.note, .admonition.note > .admonition-title {
-    border-color: #7643a8;
-}
-
-.admonition.note > .admonition-title {
-    color: #fff;
-    background-color: #9954bb;
-}
-
-.admonition.warning, .admonition.warning > .admonition-title {
-    border-color: #ff4309;
-}
-
-.admonition.warning > .admonition-title {
-    color: #fff;
-    background-color: #ff7518;
-}
-
-.admonition.danger, .admonition.danger > .admonition-title {
-    border-color: #f0005e;
-}
-
-.admonition.danger > .admonition-title {
-    color: #fff;
-    background-color: #ff0039;
-}
-
 /*
  * Side navigation
  *
