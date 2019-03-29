@@ -529,7 +529,7 @@ supported:
 
 You may [contribute additional languages].
 
-!!! Warning
+!!! Important
 
     While search does support using multiple languages together, it is best not
     to add additional languages unless you really need them. Each additional
