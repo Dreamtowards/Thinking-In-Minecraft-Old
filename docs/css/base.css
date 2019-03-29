@@ -73,11 +73,11 @@ pre code {
 }
 
 a code {
-    color: #4582ec;
+    color: #007fff;
 }
 
 a:hover code, a:focus code {
-    color: #134fb8;
+    color: #0059b3;
 }
 
 kbd {
@@ -98,28 +98,24 @@ footer {
 }
 
 .modal-dialog {
-    margin-top: 65px;
+    margin-top: 60px;
 }
 
 /* Style the admonitions. */
 
 .admonition {
-    margin-bottom: 22px;
+    margin-bottom: 21px;
     border: 1px solid #ddd;
-    border-radius: 4px;
 }
 
 .admonition > .admonition-title {
     margin: 0;
     padding: 10px 15px;
-    border-top-right-radius: 3px;
-    border-top-left-radius: 3px;
     border-bottom: 1px solid #ddd;
     color: #333;
     background-color: #f5f5f5;
-    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 18px;
-    font-weight: bold;
+    font-size: 17px;
+    font-weight: 300;
     line-height: 1.1;
 }
 
@@ -140,30 +136,30 @@ footer {
 /* Style each kind of admonition. */
 
 .admonition.note, .admonition.note > .admonition-title {
-    border-color: #5bc0de;
+    border-color: #7643a8;
 }
 
 .admonition.note > .admonition-title {
     color: #fff;
-    background-color: #5bc0de;
+    background-color: #9954bb;
 }
 
 .admonition.warning, .admonition.warning > .admonition-title {
-    border-color: #f0ad4e;
+    border-color: #ff4309;
 }
 
 .admonition.warning > .admonition-title {
     color: #fff;
-    background-color: #f0ad4e;
+    background-color: #ff7518;
 }
 
 .admonition.danger, .admonition.danger > .admonition-title {
-    border-color: #d9534f;
+    border-color: #f0005e;
 }
 
 .admonition.danger > .admonition-title {
     color: #fff;
-    background-color: #d9534f;
+    background-color: #ff0039;
 }
 
 /*
@@ -273,9 +269,6 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
     left: 100%;
     margin-top: 0px;
     margin-left: -1px;
-    -webkit-border-radius: 0 4px 4px 4px;
-    -moz-border-radius: 0 4px 4px;
-    border-radius: 0 4px 4px 4px;
 }
 
 /* display sub menu on hover*/
@@ -293,7 +286,7 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
     border-color: transparent;
     border-style: solid;
     border-width: 5px 0 5px 5px;
-    border-left-color: #ccc;
+    border-left-color: #999999;
     margin-top: 5px;
     margin-right: -10px;
 }
