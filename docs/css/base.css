@@ -73,11 +73,11 @@ pre code {
 }
 
 a code {
-    color: #007fff;
+    color: #008cba;
 }
 
 a:hover code, a:focus code {
-    color: #0059b3;
+    color: #00526e;
 }
 
 kbd {
@@ -106,6 +106,8 @@ footer {
 .admonition {
     margin-bottom: 21px;
     border: 1px solid #ddd;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
 }
 
 .admonition > .admonition-title {
@@ -136,30 +138,30 @@ footer {
 /* Style each kind of admonition. */
 
 .admonition.note, .admonition.note > .admonition-title {
-    border-color: #7643a8;
+    border-color: #3db5d8;
 }
 
 .admonition.note > .admonition-title {
     color: #fff;
-    background-color: #9954bb;
+    background-color: #5bc0de;
 }
 
 .admonition.warning, .admonition.warning > .admonition-title {
-    border-color: #ff4309;
+    border-color: #d08002;
 }
 
 .admonition.warning > .admonition-title {
     color: #fff;
-    background-color: #ff7518;
+    background-color: #e99002;
 }
 
 .admonition.danger, .admonition.danger > .admonition-title {
-    border-color: #f0005e;
+    border-color: #ea2f10;
 }
 
 .admonition.danger > .admonition-title {
     color: #fff;
-    background-color: #ff0039;
+    background-color: #f04124;
 }
 
 /*
@@ -286,12 +288,12 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
     border-color: transparent;
     border-style: solid;
     border-width: 5px 0 5px 5px;
-    border-left-color: #999999;
+    border-left-color: #ccc;
     margin-top: 5px;
     margin-right: -10px;
 }
 
 /* little arrow of parent menu */
 .dropdown-submenu:hover>a:after {
-    border-left-color: #404040;
+    border-left-color: #fff;
 }
