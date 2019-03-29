@@ -16,9 +16,8 @@ pages:
 extra_css:
     - css/base.css
     - css/bootstarp-custom.min.css
+    - css/style.css
 
 copyright: Copyright &copy; 2014
 
 docs_dir: 'docs'
-
-#theme_dir: 'readable'
