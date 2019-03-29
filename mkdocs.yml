@@ -8,10 +8,14 @@ edit_uri: ""
 
 theme: mkdocs
 
-nav:
+pages:
     - Home: index.md
     
 extra_css:
     - css/extra.css
 
 copyright: Copyright &copy; 2014
+
+docs_dir: 'docs'
+
+theme_dir: 'yeti'
