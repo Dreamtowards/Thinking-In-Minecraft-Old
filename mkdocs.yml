@@ -19,7 +19,7 @@ pages:
         - 第一章5: 
             - 第二章: index.md
             - 第二章2: index.md
-        - 第一章7: index.md
+        - 第一章7: conf.md
     
 extra_css:
     - css/base.css
