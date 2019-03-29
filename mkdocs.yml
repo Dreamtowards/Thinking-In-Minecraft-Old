@@ -6,7 +6,7 @@ site_author: Dreamtowards
 repo_url: https://github.com/Dreamtowards/Thinking-In-Minecraft
 edit_uri: ""
 
-theme: readthedocs
+theme: mkdocs
 
 nav:
     - Home: index.md
