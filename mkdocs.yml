@@ -20,4 +20,4 @@ copyright: Copyright &copy; 2014
 
 docs_dir: 'docs'
 
-theme_dir: 'yeti'
+#theme_dir: 'yeti'
