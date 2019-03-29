@@ -1,0 +1,42 @@
+# Project information
+site_name: farwmarth’s note
+site_author: 'farwmarth'
+site_url: 'http://learndocs.farwmarth.com'
+
+# Repository
+# repo_name: 'GitHub'
+# repo_url: 'https://github.com/wujiyu115/learndocs'
+
+# Copyright
+copyright: 'Copyright (c) 2016 farwmarth'
+
+# Documentation and theme
+docs_dir: 'docs'
+theme: 'material'
+# theme: 'cinder'
+
+extra:
+  palette:
+    primary: 'blue grey'
+    accent: 'blue grey'
+  author:
+    github: 'wujiyu115'
+
+# Extensions
+markdown_extensions:
+  #高亮
+  - codehilite(css_class=code)
+  - admonition
+  - toc:
+      permalink: '#'
+
+pages:
+- Home: 'index.md'
+- 数据结构与算法:
+    - '排序算法介绍': 'data_algorithms/algorithms1_intro.md'
+- c++基础:
+    - 'c++环境搭建(Win)': 'cplus/cplus_win.md'
+    - '编译过程': 'cplus/cplus4_complier.md'
+    - '常量修饰符': 'cplus/cplus5_const.md'
+- python:
+    - '语言简介': 'python/py1_intro.md'
