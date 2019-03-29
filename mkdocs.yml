@@ -12,7 +12,7 @@ copyright: 'Copyright (c) 2016 farwmarth'
 
 # Documentation and theme
 docs_dir: 'docs'
-theme: 'material'
+theme: 'mkdocs'
 # theme: 'cinder'
 
 extra:
