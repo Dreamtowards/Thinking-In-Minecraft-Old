@@ -25,3 +25,19 @@
 由于翻译可能无法做到精确表达原文意思，我们推荐您在对问题有疑惑的时候去阅读一下英文版的教程。如果您对翻译有更好的建议，可以去我们的[GitHub工程](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)上提交Issue或者Pull Request。如果是对教程的内容有问题，请先查看原文，如果不是翻译错误的话，请直接在原网站评论区向作者（JoeyDeVries）反馈。
 
 如果教程中的源码无法打开的话，可以到教程的[GitHub页面](https://github.com/JoeyDeVries/LearnOpenGL)上去寻找所需的代码，每一节教程的源码以及练习都位于 `src` 目录下的对应章节目录中。
+
+
+<div id="disqus_thread"></div>
+
+<script>
+    // var disqus_config = function () {
+    //     this.page.url = PAGE_URL;
+    //     this.page.identifier = PAGE_IDENTIFIER;
+    // };
+    (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://dreamtowards.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
