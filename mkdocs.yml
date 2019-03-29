@@ -11,7 +11,7 @@ theme: mkdocs
 pages:
     - 主頁: index.md
     - 目錄:
-        - abc: a.md
+        - abc: index.md
     
 extra_css:
     - css/extra.css
