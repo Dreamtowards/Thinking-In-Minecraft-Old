@@ -30,7 +30,7 @@ extra_css:
     
 markdown_extensions:
     - admonition
-    
-copyright: Copyright &copy; 2017 Dreamtowards
 
 docs_dir: 'docs'
+
+#copyright: Copyright &copy; 2017 Dreamtowards
