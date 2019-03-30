@@ -16,7 +16,7 @@ CaptainSparklez， SkyDoesMinecraft，Antvenom和TheSyndicateProject是四个主
 
 ## Minecraft走向死亡的那天
 
-**第一个给Minecraft游戏本身带来最大的打击可能从那天开始 - 2014.09.25微软以25亿美元的价格购买了Minecraft和MojangStudio的权利**
+**第一个给Minecraft游戏本身带来最大的打击可能从那天开始 - 2014.09.25微软以25亿美元的价格购买了Minecraft和MojangStudio的权利**  
 Notch(Minecraft创作者)和其他Minecraft最初开发人员最终离开工作室，用刚赚到的钱寻找其他利益。
 人们往往不明白，最初在Notch和初始开发人员掌控Minecraft时，Minecraft有一种文化，游戏就是这样，那时Minecraft十分有趣 其乐融融。
 在微软收购之后，Minecraft开始发布毫无意义的更新，这些更新没有添加游戏的乐趣而是令游戏更加复杂，开始让游戏变得平凡无趣。
@@ -27,7 +27,7 @@ Notch(Minecraft创作者)和其他Minecraft最初开发人员最终离开工作�
 而Minecraft就是一个很好的例子。
 
 
-**第二件让Minecraft走向灭亡的事件是在2015年和2016年的恋童癖丑闻。**
+**第二件让Minecraft走向灭亡的事件是在2015年和2016年的恋童癖丑闻。**  
 在2016年的Minecraft社区中，不少有名的Minecraft实况主以恋童癖的指控被捕
 典型的例子是Lionmaker实况主患有恋童癖并与未成年粉丝发生性关系，在这一点上 整个社区基本上陷入了混乱
 各个主要社区充满了嘲笑和讨论，在一个现代游戏中，这种耻辱永远不会动摇。
@@ -35,7 +35,7 @@ Notch(Minecraft创作者)和其他Minecraft最初开发人员最终离开工作�
 Minecraft的成功很大的依赖于互联网，在玩家获得游戏后，不断围绕它进行炒作，数十亿的观点。。一旦这些观点变得越来越少，玩家几乎就会离开
 
 
-**第三个导致Minecraft走向破败的事件是社区濒临死亡**
+**第三个导致Minecraft走向破败的事件是社区濒临死亡**  
 许多视频创作者从他们的频道停止关于Minecraft的内容，将他们的频道重点转移到其他游戏或以某种方式追求其他兴趣。
 仅在YouTube上，这将影响到加起来近5000万的订阅用户，这占据Minecraft玩家的一部分。
 如今你和一些朋友一起玩时，Minecraft任然偶尔会很有趣，但除此之外，游戏不再有任何乐趣
