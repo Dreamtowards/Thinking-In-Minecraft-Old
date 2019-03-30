@@ -10,7 +10,7 @@ theme: mkdocs
 
 pages:
     - 主頁: index.md
-    - 目錄: index.md
+    - 目錄: the-day-that-minecraft-died.md
     
     
 extra_css:
